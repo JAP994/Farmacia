@@ -1,0 +1,13 @@
+C:\Users\sawme\Documents\GitHub\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.exe
+C:\Users\sawme\Documents\GitHub\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.deps.json
+C:\Users\sawme\Documents\GitHub\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.runtimeconfig.json
+C:\Users\sawme\Documents\GitHub\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.runtimeconfig.dev.json
+C:\Users\sawme\Documents\GitHub\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.dll
+C:\Users\sawme\Documents\GitHub\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.pdb
+C:\Users\sawme\Documents\GitHub\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.csprojAssemblyReference.cache
+C:\Users\sawme\Documents\GitHub\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.AssemblyInfoInputs.cache
+C:\Users\sawme\Documents\GitHub\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.AssemblyInfo.cs
+C:\Users\sawme\Documents\GitHub\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\sawme\Documents\GitHub\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.dll
+C:\Users\sawme\Documents\GitHub\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.pdb
+C:\Users\sawme\Documents\GitHub\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.genruntimeconfig.cache
